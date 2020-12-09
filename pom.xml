@@ -4,10 +4,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.perf</groupId>
-  <artifactId>business-application-kjar</artifactId>
+  <artifactId>business-application-model</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>business-application-kjar</name>
+  <name>business-application-model</name>
 
   <properties>
     <version.org.kie>7.45.0.Final</version.org.kie>
